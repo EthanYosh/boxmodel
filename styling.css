@@ -1,0 +1,22 @@
+* {
+    font-family: 'Varela Round', sans-serif;
+    font-weight: normal;
+    padding: 10px;
+    margin: auto;
+  }
+
+  
+  
+  body {
+    padding: 100;
+    margin: 100;
+    background-image: linear-gradient(to bottom, #00FFFF, #66CDAA);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+  
+  }
+
+  ul {
+    list-style: none;
+  }
